@@ -1,0 +1,15 @@
+{
+  "dataset": "Haberman's Survival Data (simulated times)",
+  "n_train": 216,
+  "n_test": 73,
+  "n_features": 3,
+  "cox_c_index": 0.6039603960396039,
+  "cox_integrated_brier_score": 0.13789617130734622,
+  "cox_mean_brier_at_quartiles": 0.1450606052652751,
+  "xgb_c_index": 0.6017601760176018,
+  "top_features_by_mean_abs_shap": [
+    "Nodes",
+    "Age",
+    "Year"
+  ]
+}
